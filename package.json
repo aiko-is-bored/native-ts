@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@typescript-eslint/typescript-estree": "^4.17.0",
+    "cmake-js": "^6.1.0",
+    "kleur": "^4.1.4",
+    "yargs": "^3.32.0"
+  }
+}
