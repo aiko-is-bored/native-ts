@@ -39,3 +39,6 @@ We've just compiled our first NTS program! Let's run it! To run:
 ./test.o
 ```
 
+# Contributing
+
+For the sake of ease, I've installed LLVM automatically with the GitPod. Fork the repo and launch [GitPod](https://github.io).
