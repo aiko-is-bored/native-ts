@@ -39,6 +39,6 @@ We've just compiled our first NTS program! Let's run it! To run:
 ./test.o
 ```
 
-# Contributing
+# GitPod
 
-For the sake of ease, I've installed LLVM automatically with the GitPod. Fork the repo and launch [GitPod](https://github.io).
+GitPod's Docker will automatically install LLVM, it'll take a while, but it should Make and Compile.
